@@ -1,0 +1,8 @@
+fix:-change dicts everytime prog runs
+fix:-drag and drop "cdm" to right down section
+feat:-use on existing browser
+feat:-input window everytime false word and replace dict word
+
+
+Py audio lib discord :
+mute alban a chaque qu'il dit "romain"
